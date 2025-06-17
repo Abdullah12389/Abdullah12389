@@ -52,8 +52,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <span style="margin: 20px;">
     <a href="https://www.cprogramming.com/" target="_blank">
