@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/twitter/follow/abdullahh2395?logo=twitter&style=for-the-badge" alt="Twitter: @abdullahh2395" />
   </a>
 </p>
+
 ---
 
 <h3>Description:</h3>
@@ -29,10 +30,12 @@ I love figuring things out — whether it’s debugging a tricky issue, automati
 
 I enjoy working close to the machine too — I’ve explored assembly, and low-level concepts of AI just to better understand how software truly runs behind the scenes. Whether it's high-level reasoning or low-level, I'm all in.
 </p>
+
 ---
 
-<h3>
+<h3>Projects</h3>
 
+<p>
 - 🔭 I’m currently working on **an AI research project**
 - 🌱 I’m currently learning **LangGraph, CrewAI & advanced Generative AI**
 - 👯 I’m looking to collaborate on **AI-driven tools and projects**
@@ -42,8 +45,7 @@ I enjoy working close to the machine too — I’ve explored assembly, and low-l
 - 💬 Ask me about **AI (ML, DL, GenAI), Data Science**
 - 📫 Reach me at **abdullahhamid2395@gmail.com**
 - 📄 My resume and experience: [Link here](#)
-
-</h3>
+</p>
 
 ---
 
