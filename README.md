@@ -19,7 +19,16 @@
     <img src="https://img.shields.io/twitter/follow/abdullahh2395?logo=twitter&style=for-the-badge" alt="Twitter: @abdullahh2395" />
   </a>
 </p>
+---
 
+<h3>Description:</h3>
+<p>
+I'm a Software Engineering student from Pakistan with a deep passion for Artificial Intelligence and how it can reshape the way we solve problems. I'm especially interested in Generative AI — I enjoy building with LLMs, designing smart agents, and experimenting with techniques like Retrieval-Augmented Generation (RAG) to make models more useful, responsive, and grounded.
+
+I love figuring things out — whether it’s debugging a tricky issue, automating a messy workflow, or breaking down complex AI systems into something understandable and usable. My focus is always on learning deeply and building tools that actually work in the real world.
+
+I enjoy working close to the machine too — I’ve explored assembly, and low-level concepts of AI just to better understand how software truly runs behind the scenes. Whether it's high-level reasoning or low-level, I'm all in.
+</p>
 ---
 
 <h3>
