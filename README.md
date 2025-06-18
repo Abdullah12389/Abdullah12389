@@ -35,7 +35,6 @@ I enjoy working close to the machine too — I’ve explored assembly, and low-l
 
 <h3>Projects</h3>
 
-<p>
 - 🔭 I’m currently working on **an AI research project**
 - 🌱 I’m currently learning **LangGraph, CrewAI & advanced Generative AI**
 - 👯 I’m looking to collaborate on **AI-driven tools and projects**
@@ -45,7 +44,6 @@ I enjoy working close to the machine too — I’ve explored assembly, and low-l
 - 💬 Ask me about **AI (ML, DL, GenAI), Data Science**
 - 📫 Reach me at **abdullahhamid2395@gmail.com**
 - 📄 My resume and experience: [Link here](#)
-</p>
 
 ---
 
