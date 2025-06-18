@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hamid</h1>
-<img src="https://avatars.githubusercontent.com/u/169129731?s=400&u=ec853649fa690c2fd873075114ea793d4e53df2d&v=4" alt="user profile pic" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/169129731?s=400&u=ec853649fa690c2fd873075114ea793d4e53df2d&v=4" alt="user profile pic" />
+</p>
 <h3 align="center">A passionate AI developer from Pakistan</h3>
 
 <p align="center">
@@ -20,7 +22,7 @@
 
 ---
 
-<h5>
+<h3>
 
 - 🔭 I’m currently working on **an AI research project**
 - 🌱 I’m currently learning **LangGraph, CrewAI & advanced Generative AI**
@@ -32,7 +34,7 @@
 - 📫 Reach me at **abdullahhamid2395@gmail.com**
 - 📄 My resume and experience: [Link here](#)
 
-</h5>
+</h3>
 
 ---
 
