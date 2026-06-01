@@ -24,11 +24,16 @@
 
 <h3>Description:</h3>
 <p>
-I'm a Software Engineering student from Pakistan with a deep passion for Artificial Intelligence and how it can reshape the way we solve problems. I'm especially interested in Generative AI — I enjoy building with LLMs, designing smart agents, and experimenting with techniques like Retrieval-Augmented Generation (RAG) to make models more useful, responsive, and grounded.
+I'm a Software Engineering student from Pakistan with a strong passion for Artificial Intelligence, software development, and building practical solutions that solve real-world problems.
 
-I love figuring things out — whether it’s debugging a tricky issue, automating a messy workflow, or breaking down complex AI systems into something understandable and usable. My focus is always on learning deeply and building tools that actually work in the real world.
+My primary focus is on Generative AI, Large Language Models (LLMs), AI agents, and Retrieval-Augmented Generation (RAG). I enjoy designing intelligent systems, experimenting with modern AI frameworks, and exploring ways to make AI applications more reliable, useful, and scalable.
 
-I enjoy working close to the machine too — I’ve explored assembly, and low-level concepts of AI just to better understand how software truly runs behind the scenes. Whether it's high-level reasoning or low-level, I'm all in.
+Beyond AI, I work across the full stack, building applications with technologies such as React, Express.js, MongoDB, PostgreSQL, Prisma, Firebase, and Python. I enjoy turning ideas into functional products, whether it's developing web applications, automating workflows, or creating AI-powered tools.
+
+I have a strong curiosity for understanding how software works beneath the surface. From exploring assembly language and computer architecture to studying machine learning fundamentals, I enjoy bridging the gap between low-level systems and high-level intelligence.
+
+I'm constantly learning, building, and refining my skills, with the goal of creating technology that is both innovative and impactful.
+
 </p>
 
 ---
