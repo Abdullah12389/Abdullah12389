@@ -40,13 +40,10 @@ I'm constantly learning, building, and refining my skills, with the goal of crea
 
 <h3>Projects</h3>
 
-- 🔭 I’m currently working on **an AI research project**
-- 🌱 I’m currently learning **LangGraph, CrewAI & advanced Generative AI**
-- 👯 I’m looking to collaborate on **AI-driven tools and projects**
-- 🤝 I’m looking for help with **open-source AI infrastructure**
+- 🔭 I’m currently working on **Connecting the AI with complex backend**
+- 🌱 I’m currently learning **advanced Generative AI & Backend Infrastructure**
 - 👨‍💻 All of my projects are available [here](https://github.com/abdullah12389)
-- 📝 I regularly write articles on **AI, ML & Python (link pending)**
-- 💬 Ask me about **AI (ML, DL, GenAI), Data Science**
+- 💬 Ask me about **AI (ML, DL, GenAI), Data Science, Mern Stack**
 - 📫 Reach me at **abdullahhamid2395@gmail.com**
 - 📄 My resume and experience: [Link here](#)
 
