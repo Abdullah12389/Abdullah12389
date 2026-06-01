@@ -45,7 +45,7 @@ I'm constantly learning, building, and refining my skills, with the goal of crea
 - 👨‍💻 All of my projects are available [here](https://github.com/abdullah12389)
 - 💬 Ask me about **AI (ML, DL, GenAI), Data Science, Mern Stack**
 - 📫 Reach me at **abdullahhamid2395@gmail.com**
-- 📄 My resume and experience: [Link here](#)
+- 📄 My resume and experience: https://portfolio-website-ten-ruby-70.vercel.app
 
 ---
 
