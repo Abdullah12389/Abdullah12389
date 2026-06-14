@@ -37,7 +37,12 @@ I'm constantly learning, building, and refining my skills, with the goal of crea
 </p>
 
 ---
+<h3>Achievements</h3>
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="My GitHub Achievements" />
+</a>
 
+---
 <h3>Projects</h3>
 
 - 🔭 I’m currently working on **Connecting the AI with complex backend**
