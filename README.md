@@ -38,9 +38,11 @@ I'm constantly learning, building, and refining my skills, with the goal of crea
 
 ---
 <h3>Achievements</h3>
-<a href="https://github.com">
-  <img src="https://vercel.app" alt="My GitHub Achievements" />
-</a>
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="My Trophies" />
+  </a>
+</p>
 
 ---
 <h3>Projects</h3>
