@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  Software Engineering Student · AI Developer · Full-Stack & Backend Engineer
+  Software Engineer · AI Developer · Full-Stack & Backend Engineer
 </h3>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 # 👨‍💻 About Me
 
-I'm a Software Engineering student from Pakistan passionate about building practical software systems and exploring how Artificial Intelligence can be integrated into real-world applications.
+I'm a Software Engineer passionate about building practical software systems and exploring how Artificial Intelligence can be integrated into real-world applications.
 
 My work spans **Artificial Intelligence, backend development, full-stack applications, mobile development, databases, and infrastructure**.
 
