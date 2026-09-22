@@ -1,5 +1,3 @@
-# Abdullah Hamid — GitHub Profile README
-
 <h1 align="center">Hi 👋, I'm Abdullah Hamid</h1>
 
 <p align="center">
