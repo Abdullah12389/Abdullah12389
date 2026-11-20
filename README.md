@@ -82,12 +82,12 @@ I enjoy building complete systems — from designing the frontend experience to 
 
 ## 🤖 AI, Machine Learning & Data
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangGraph" />
 </p>
 
 **Technologies & Concepts:**
@@ -361,10 +361,9 @@ An Android application that helps users manage fitness goals, track nutrition, a
 ---
 
 # 🏆 GitHub Achievements
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Abdullah12389&margin-w=10&margin-h=10&no-frame=true"
+    src="https://github-trophies.vercel.app/?username=Abdullah12389&margin-w=10&margin-h=10&no-frame=true"
     alt="GitHub Trophies"
   />
 </p>
