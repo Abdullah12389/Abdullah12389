@@ -9,11 +9,11 @@
 </p>
 
 <h3 align="center">
-  Software Engineer · AI Developer · Full-Stack & Backend Engineer
+  AI Driven Software Engineer 
 </h3>
 
 <p align="center">
-  I build AI-powered applications, backend systems, mobile apps, and practical software products.
+  I build applications from development to production satisfying requirements.
 </p>
 
 <p align="center">
@@ -77,13 +77,13 @@ I enjoy building complete systems — from designing the frontend experience to 
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,cs" />
 </p>
 
 ## 🤖 AI, Machine Learning & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas" />
 </p>
 
 **Technologies & Concepts:**
@@ -95,19 +95,19 @@ I enjoy building complete systems — from designing the frontend experience to 
 ## 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 **Technologies:**
 
-`React` · `TypeScript` · `JavaScript` · `Next.js` · `Vite` · `Tailwind CSS`
+`React` · `Tailwind CSS`
 
 ---
 
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi" />
 </p>
 
 **Technologies & Concepts:**
@@ -119,29 +119,17 @@ I enjoy building complete systems — from designing the frontend experience to 
 ## 🗄️ Databases & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
 
-**Also used:** `Prisma` · `React Query`
-
----
-
-## 📱 Mobile Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
-
-**Technologies:**
-
-`Kotlin` · `Android Development` · `Jetpack Compose` · `React Native` · `Expo`
+**Also used:** `Entity Framework`
 
 ---
 
 ## ☁️ DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,aws" />
 </p>
 
 **Currently Exploring:**
