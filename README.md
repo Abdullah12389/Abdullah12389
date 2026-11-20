@@ -403,10 +403,21 @@ An Android application that helps users manage fitness goals, track nutrition, a
 ---
 
 # 🎓 Certifications
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="22" height="22" alt="Google" align="center" />
+  &nbsp;Google AI Essentials
+</h3>
 
-### Google AI Essentials
+<p>
+  <strong>Issued by:</strong> Google (via Coursera) &bull;
+  <strong>Credential ID:</strong> <a href="https://coursera.org/verify/1KGCT4H3J7LH"><code>1KGCT4H3J7LH</code></a>
+</p>
 
-**Credential ID:** `1KGCT4H3J7LH`
+<details>
+  <summary>View Certificate</summary>
+  <br />
+  <img src="./1KGCT4H3J7LH.jpg" alt="Google AI Essentials Certificate" width="600" />
+</details>
 
 ---
 
